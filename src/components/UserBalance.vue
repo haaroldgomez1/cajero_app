@@ -12,7 +12,7 @@ export default {
     data: function (){
         return {
             username: "",
-            balance: 0
+            balance: 500000
 }
 },
 created: function(){
